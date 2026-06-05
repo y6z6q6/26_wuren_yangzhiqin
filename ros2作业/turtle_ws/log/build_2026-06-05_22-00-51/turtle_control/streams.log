@@ -1,0 +1,20 @@
+[0.299s] Invoking command in '/home/chin/turtle_ws/src/turtle_control': PYTHONPATH=/home/chin/turtle_ws/build/turtle_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chin/turtle_ws/install/turtle_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_control build --build-base /home/chin/turtle_ws/build/turtle_control/build install --record /home/chin/turtle_ws/build/turtle_control/install.log --single-version-externally-managed install_data
+[0.417s] running egg_info
+[0.418s] writing ../../build/turtle_control/turtle_control.egg-info/PKG-INFO
+[0.418s] writing dependency_links to ../../build/turtle_control/turtle_control.egg-info/dependency_links.txt
+[0.418s] writing requirements to ../../build/turtle_control/turtle_control.egg-info/requires.txt
+[0.418s] writing top-level names to ../../build/turtle_control/turtle_control.egg-info/top_level.txt
+[0.419s] reading manifest file '../../build/turtle_control/turtle_control.egg-info/SOURCES.txt'
+[0.419s] writing manifest file '../../build/turtle_control/turtle_control.egg-info/SOURCES.txt'
+[0.419s] running build
+[0.419s] running build_py
+[0.419s] running install
+[0.419s] running install_lib
+[0.420s] running install_data
+[0.420s] copying config/params.yaml -> /home/chin/turtle_ws/install/turtle_control/share/turtle_control/config
+[0.420s] running install_egg_info
+[0.421s] removing '/home/chin/turtle_ws/install/turtle_control/lib/python3.10/site-packages/turtle_control-0.0.0-py3.10.egg-info' (and everything under it)
+[0.421s] Copying ../../build/turtle_control/turtle_control.egg-info to /home/chin/turtle_ws/install/turtle_control/lib/python3.10/site-packages/turtle_control-0.0.0-py3.10.egg-info
+[0.421s] running install_scripts
+[0.433s] writing list of installed files to '/home/chin/turtle_ws/build/turtle_control/install.log'
+[0.444s] Invoked command in '/home/chin/turtle_ws/src/turtle_control' returned '0': PYTHONPATH=/home/chin/turtle_ws/build/turtle_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chin/turtle_ws/install/turtle_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_control build --build-base /home/chin/turtle_ws/build/turtle_control/build install --record /home/chin/turtle_ws/build/turtle_control/install.log --single-version-externally-managed install_data

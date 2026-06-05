@@ -1,0 +1,6 @@
+turtle_control_node:
+  ros__parameters:
+    xiansudu: 0.8      
+    jiaosudu: 3.5      
+    zhouqi: 5.0        
+    pinlv: 10.0
